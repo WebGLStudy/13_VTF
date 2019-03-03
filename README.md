@@ -1,14 +1,14 @@
-# HDR
-高輝度テクスチャを使った画面を作ります。
+# Vertex Texture Fetch
+頂点テクスチャフェッチで水面をドラッグした際に波立たせます。
 
-https://webglstudy.github.io/12_HDR/
+https://webglstudy.github.io/13_VTF/
 
-![結果画像](result.gif)
+![結果画像](result.png)
 
 # 課題
 次の問題に挑戦してみてください。
 
-- 別のHDRIキューブマップを使ってみましょう
+- 波の動きをいじってみよう
 
 # 課題の進め方
 次のように課題を解いてみてください。
@@ -19,5 +19,11 @@ https://webglstudy.github.io/12_HDR/
 - GitHub Pages で正答したか確認しましょう
 
 # 謝辞
-今回のサンプルでは、Blochi氏の, Ueno Shrineの画像を使わせていただいています。
-http://www.hdrlabs.com/sibl/archive.html
+今回のリポジトリでは次のアセットを使わせていただいています。
+
+- Greg Zaal 氏の Pool の画像
+  - https://hdrihaven.com/hdri/?h=pool
+- Enki Mute 氏の hdrpng.js
+  - https://enkimute.github.io/hdrpng.js/
+- wgld.org の minMatrix.js
+  - https://wgld.org/d/library/l001.html
